@@ -19,5 +19,5 @@ I'm Yasiru Lakintha, a computer science undergraduate passionate about developin
 JavaScript · TypeScript · React · Node.js · Python
 
 📫 Email: yasirulaki04@gmail.com  
-🌐 Portfolio: https://linktr.ee/yasirulaki
+🌐 Portfolio: linktr.ee/yasirulaki
 
