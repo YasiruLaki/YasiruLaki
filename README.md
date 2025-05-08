@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://i.imgur.com/nKZUM5P.gif" alt="cover" width="100%" />
+  <img src="https://raw.githubusercontent.com/YasiruLaki/YasiruLaki/main/github_cover.gif" width="100%" />
 </p>
 
 # Ayubowan!
