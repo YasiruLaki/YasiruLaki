@@ -1,7 +1,10 @@
-<!-- GitHub Profile README -->
 
 
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZHPqukn"><a href="//imgur.com/ZHPqukn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[<!-- GitHub Profile README -->
+
+<p align="center">
+  <img src="https://i.imgur.com/nKZUM5P.gif" alt="cover" width="100%" />
+</p>
 
 # Ayubowan!
 
@@ -19,3 +22,5 @@ JavaScript · TypeScript · React · Node.js · Python
 
 📫 Email: yasirulaki04@gmail.com  
 🌐 Portfolio: linktr.ee/yasirulaki
+
+](url)
