@@ -1,8 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/drj8voqyf/image/upload/v1746710237/Adobe_Express_2025-05-08_18.31.47_1_a6eihw.gif" alt="cover" width="100%" />
-  <p>test</p>
+  <img src="https://res.cloudinary.com/drj8voqyf/image/upload/v1742140721/lohw1mci9n0qmoshush9.jpg" alt="cover" width="100%" />
 </p>
 
 # Ayubowan!
