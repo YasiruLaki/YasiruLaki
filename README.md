@@ -1,6 +1,4 @@
-
-
-[<!-- GitHub Profile README -->
+<!-- GitHub Profile README -->
 
 <p align="center">
   <img src="https://i.imgur.com/nKZUM5P.gif" alt="cover" width="100%" />
@@ -22,5 +20,3 @@ JavaScript · TypeScript · React · Node.js · Python
 
 📫 Email: yasirulaki04@gmail.com  
 🌐 Portfolio: linktr.ee/yasirulaki
-
-](url)
