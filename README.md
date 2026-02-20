@@ -4,19 +4,9 @@
   <img src="https://raw.githubusercontent.com/YasiruLaki/YasiruLaki/main/gtihub_cover.gif" width="100%" />
 </p>
 
-# Ayubowan!
+# Yasiru Lakintha
 
-I'm Yasiru Lakintha, a computer science undergraduate passionate about developing modern web applications, with a focus on creating seamless user experiences and efficient backend systems.
+CS undergrad. Hacks frontends, crunches backends, obsessed with clean code.
 
-## What I Do
-
-- Frontend development using React, TypeScript, and JavaScript  
-- Backend development with Node.js and Python  
-- UI/UX design with attention to detail and user experience  
-
-## Tech Stack
-
-JavaScript · TypeScript · React · Node.js · Python
-
-📫 Email: yasirulaki04@gmail.com  
-🌐 Portfolio: linktr.ee/yasirulaki
+📫 yasirulaki04@gmail.com  
+🌐 [linktr.ee/yasirulaki](https://linktr.ee/yasirulaki)
